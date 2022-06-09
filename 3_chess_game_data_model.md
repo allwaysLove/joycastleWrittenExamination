@@ -1,18 +1,14 @@
----
-typora-copy-images-to: images
----
-
 ## 国际象棋比赛数据建模
 
 ### 一、E-R图
 
 
 
-![](.\images\3_E-R图.drawio.png)
+![](images\3_E-R图.drawio.png)
 
 ### 二、数据库UML图
 
-![](.\images\3_UML图.drawio.png)
+![](images\3_UML图.drawio.png)
 
 ### 三、数据库表DDL
 
